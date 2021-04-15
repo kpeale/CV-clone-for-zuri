@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Rubik", sans-serif;
+  font-weight: 300;
+}
+
+header {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+h1 {
+  letter-spacing: 2px;
+  padding-bottom: 3px;
+}
+
+p {
+  padding-bottom: 3px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 5rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px dotted red;
+  line-height: 0.1rem;
+  margin-right: 5rem;
+}
+
+h2 span {
+  background-color: #fff;
+  padding: 0 10px;
+}
+
+.work-experience {
+  margin-left: 5rem;
+}
+
+.zuri-intern {
+  padding-top: 1rem;
+  margin-bottom: 10px;
+}
+
+.technical-writer {
+  margin-bottom: 10px;
+}
+
+.education {
+  margin-left: 5rem;
+}
+
+.skills {
+  margin-left: 5rem;
+}
